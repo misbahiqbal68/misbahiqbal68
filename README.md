@@ -13,11 +13,13 @@ An interview practice product that analyzes a resume and job description, maps l
 
 [Try Aceva →](https://aceva.vercel.app)
 
-### AuditFlow · QA audit workbench
+### [AuditFlow](https://replit.com/@misbahiqbal68/ShadowySquareOpensource) · QA audit workbench
 A CSV-based workflow that turns QA findings into a prioritized follow-up plan. It preserves invalid rows for correction, groups recurring issues, and records real processing steps with replay and checkpoint recovery.
 
 **Focus:** React · TypeScript · Express · PostgreSQL · data validation · reliable workflows  
-*Built for the Replit “Build an App that Shows Its Work” challenge. Source is in a private repository.*
+*Built for the Replit “Build an App that Shows Its Work” challenge.*
+
+[Open the Replit project →](https://replit.com/@misbahiqbal68/ShadowySquareOpensource)
 
 ### [Job Search Command Center](https://app.notion.com/p/Career-Pipeline-Job-Search-Command-Center-3f0e47ef08fd8053882ff603fcec937e) · Notion workspace
 A connected applications, contacts and interviews tracker with status, follow-up and upcoming-interview views. The example records are fictional.
